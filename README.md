@@ -5,6 +5,7 @@ Questionnnaire web application retrieving content from ERXQuestAPI[https://githu
 - ReactJS
 - HTML
 - CSS
+- Json
 
 # Libraries
 All libraries as in the file: "package.json", just execute "npm install" command line.
